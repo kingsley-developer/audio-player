@@ -6,7 +6,7 @@ A Audio player app written in Python written by me
 
 ### packages i installed from pypi:
 1. ttkbootstrap = "1.10.1"
-2. audioplayer = ""
+2. audioplayer = "0.6"
 
 ### In built library:
 1. threading
